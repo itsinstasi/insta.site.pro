@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: http://instasitepro.itsinsta.site//sitemap.xml
+Sitemap: https://instasitepro.itsinsta.site//sitemap.xml
